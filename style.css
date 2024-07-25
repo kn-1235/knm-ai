@@ -9,11 +9,7 @@ body{
     /* background-color: lightblue; */
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(ai.webp);
 }
-@media(max-width:1285px){
-    html{
-        font-size: 55%;
-    }
-}
+
 .chatbot-toggler{
     position: fixed;
     right: 40px;
@@ -172,13 +168,4 @@ body{
         display: block;
     }
 }
-.home{
-    text-align: center;
-    align-items: end;
-    margin-top: 44%;
-    font-weight: 600;
-    margin-left: 60%;
-    font-size: larger;
-    font-weight: bolder;
-    color: #ccc;
-}
+
