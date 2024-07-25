@@ -167,3 +167,13 @@ body{
         display: block;
     }
 }
+.home{
+    text-align: center;
+    align-items: end;
+    margin-top: 44%;
+    font-weight: 600;
+    margin-left: 60%;
+    font-size: larger;
+    font-weight: bolder;
+    color: #ccc;
+}
